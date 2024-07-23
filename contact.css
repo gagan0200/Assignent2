@@ -1,0 +1,56 @@
+.form {
+  border-radius: 20px;
+  background-color: #fff;
+  margin: 10% 35% 5% 35%;
+}
+
+.container {
+    justify-content: center;
+    text-align: left;
+    position: relative;
+}
+
+.fields {
+  border-radius: 20px;
+  background-color: #fff;
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+  width: 500px;
+}
+
+.message {
+  border-radius: 20px;
+  margin-top: 40px;
+  padding: 20px;
+  justify-content: center;
+  text-align: center;
+  width: 500px;
+}
+
+.msg-lbl {
+  margin-top: 20px;
+  position: absolute;
+  justify-content: center;
+  text-align: center;
+}
+
+lable {
+  color: #000;
+  padding-right: 50px;
+  margin-left: -80px;
+  font-weight: bold;
+  display: flex;
+  position: absolute;
+  text-align: left;
+}
+
+.btn {
+  font-weight: bold;
+  width: 100%;
+  background-color: #42a4f4;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  cursor: pointer;
+}
